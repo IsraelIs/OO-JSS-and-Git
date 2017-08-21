@@ -19,10 +19,11 @@ _So far I only have sample webpages for learning Git, this
 
 
 ## Technologies to be used
-_AngularJS
-HTML
-CSS
-Javascript
-Bootstrap_
+
++AngularJS
++HTML
++CSS
++Javascript
++Bootstrap
 ### Licensing
 _Copyright(c) 2017 by Isaac Israel under the MIT license_
