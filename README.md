@@ -1,6 +1,6 @@
-# _First attempt at a read me-random webpages_
+# _README.md_
 
-#### _a collection of various webpages to learn OO JS and Git, 8/21/2017_
+#### _a collection of various webpages to learn OO JS and Git, updated 8/21/2017_
 
 #### By _**Isaac Israel**_
 
