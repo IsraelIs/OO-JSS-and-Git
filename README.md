@@ -1,4 +1,4 @@
-# _README.md_
+# _README_
 
 #### _a collection of various webpages to learn OO JS and Git, updated 8/21/2017_
 
