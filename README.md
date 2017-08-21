@@ -7,13 +7,14 @@
 ## Description _{So far I only have sample webpages for learning Git, this
   read me was made using markdown}_
 
-## Setup _{1.Clone the repository
+## Setup
+  1.Clone the repository
   2.Open a HTTP server in the cloned directory
   3. In the terminal start up the server by running python -m SimpleHTTPServer
   4.Open a web browser and in the url, type localhost:8000
-}_
 
-##Technologies to be used _{AngularJS
+
+## Technologies to be used _{AngularJS
 HTML
 CSS
 Javascript
