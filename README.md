@@ -13,15 +13,16 @@ _So far I only have sample webpages for learning Git, this
 
   2.Open a HTTP server in the cloned directory
 
-  3. In the terminal start up the server by running python -m SimpleHTTPServer
+  3.In the terminal start up the server by running python -m SimpleHTTPServer
 
   4.Open a web browser and in the url, type localhost:8000
 
 
-## Technologies to be used _{AngularJS
+## Technologies to be used
+_AngularJS
 HTML
 CSS
 Javascript
-Bootstrap}_
+Bootstrap_
 ### Licensing
-_{Copyright(c) 2017 b Isaac Israel under the MIT license}_
+_Copyright(c) 2017 by Isaac Israel under the MIT license_
