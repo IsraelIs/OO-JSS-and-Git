@@ -13,12 +13,36 @@
 
 /* General Styles */
 html, body { margin: 0; padding: 0; }
-body { background: #eee; font: 76% Verdana, Arial, Helvetica, sans-serif; }
-p, div { font-size: 1em; }
+body { background: #eee; font: 76% Verdana, Arial, Helvetica, sans-serif;
+background-image: url("https://images.8tracks.com/cover/i/000/311/373/7322554338_3b2f5339e1_b-512.jpg?rect=0,0,1024,1024&q=98&fm=jpg&fit=max");}
+p, div { font-size: 1em;
+  color:black;
+  text-shadow:
+  -1px -1px 0 #fff,
+   1px -1px 0 #fff,
+  -1px 1px 0 #fff,
+  1px 1px 0 #fff;}
 a:link { color: #900; }
 a:hover { color: #f00; }
 a:visited { color: #303; }
 abbr { cursor: default; }
+ul{
+  color:black;
+  text-shadow:
+  -1px -1px 0 #fff,
+   1px -1px 0 #fff,
+  -1px 1px 0 #fff,
+  1px 1px 0 #fff;
+}
+strong{
+  color: gray;
+  text-shadow:
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+}
+
 .accesskey { text-decoration: underline; }
 .page-wrapper { position: relative; background: url(header.jpg) no-repeat; padding: 170px 10px 10px 10px; width: 770px; }
 
